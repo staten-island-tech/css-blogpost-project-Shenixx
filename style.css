@@ -1,6 +1,15 @@
 body{
-    background-color: #67d1b7;   
+    background-color: rgb(1,1,1);
 }
-li{
-    background-color: rgb(255, 255, 255);
+
+.maincolor{
+    color: rgb(240, 255, 240)
+}
+
+.subcolor{
+    color: rgb(219, 0, 0)
+}
+
+.legcolor{
+    color: rgb(173, 216, 230)
 }
