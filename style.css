@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Heebo&family=Rajdhani&display=swap');
+
 body{
-    background-color: rgb(1,1,1);
+    background-image: url(https://images.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg?cs=srgb&dl=pexels-pixabay-36717.jpg&fm=jpg);
     text-align: center;
-    margin: 0 auto;
 }
 
 .White{
@@ -14,6 +16,26 @@ body{
 
 .Blue{
     color: rgb(173, 216, 230)
+}
+
+.thic{
+    width: 50vw;
+    font-family: "Caveat";
+    background-color: rgb(43, 21, 21);
+    margin: 0 auto;
+
+}
+
+.thic1{
+    width: 50vw;
+    font-family: "Caveat";
+    background-color: rgb(43, 21, 21);
+    margin: 0 auto;
+    opacity: .9; 
+}
+
+#BIG{
+    font-size: 50px;
 }
 
 a{
