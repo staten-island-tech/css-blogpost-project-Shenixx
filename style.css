@@ -1,15 +1,21 @@
 body{
     background-color: rgb(1,1,1);
+    text-align: center;
+    margin: 0 auto;
 }
 
-.maincolor{
+.White{
     color: rgb(240, 255, 240)
 }
 
-.subcolor{
+.Red{
     color: rgb(219, 0, 0)
 }
 
-.legcolor{
+.Blue{
     color: rgb(173, 216, 230)
+}
+
+a{
+    display: block;
 }
