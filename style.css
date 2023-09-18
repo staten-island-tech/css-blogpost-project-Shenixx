@@ -6,24 +6,29 @@ body{
     text-align: center;
 }
 
-.White{
+.Head{
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px;
+    font-size: 70px;
+    border: 3px solid rgb(0, 0, 0);
+    width: 50vw;
+    height: 4.5vw;
+    opacity: .4; 
+    background-color: rgb(255, 255, 255);
+}
+
+.Head1{
     color: rgb(240, 255, 240)
 }
 
-.Red{
-    color: rgb(219, 0, 0)
-}
-
-.Blue{
-    color: rgb(173, 216, 230)
-}
 
 .thic{
     width: 50vw;
     font-family: "Caveat";
     background-color: rgb(43, 21, 21);
     margin: 0 auto;
-
+    color: rgb(255, 255, 255)
 }
 
 .thic1{
@@ -32,6 +37,7 @@ body{
     background-color: rgb(43, 21, 21);
     margin: 0 auto;
     opacity: .9; 
+    color: rgb(255, 255, 255)
 }
 
 #BIG{
